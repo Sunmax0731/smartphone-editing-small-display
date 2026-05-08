@@ -1,0 +1,11 @@
+{
+  "product": "smartphone-editing-small-display",
+  "title": "スマホ編集・小型端末表示",
+  "domain": "IoT",
+  "ideaNo": 13,
+  "platformType": "iot-simulator-mock",
+  "expectedPublicTarget": "GitHub Release / 自宅LAN",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
