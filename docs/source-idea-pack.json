@@ -1,0 +1,38 @@
+{
+  "product": "smartphone-editing-small-display",
+  "sourceRank": {
+    "rank": 60,
+    "tier": "P3",
+    "score": 52,
+    "domain": "IoT",
+    "ideaNo": 13,
+    "ideaName": "スマホ編集・小型端末表示",
+    "repositoryName": "smartphone-editing-small-display",
+    "publicTarget": "GitHub Release / 自宅LAN",
+    "priorityReason": "端末間連携が前提で、単体プロダクトとしては訴求を絞りにくい。"
+  },
+  "initialRepositoryReadme": "not-found-at-start",
+  "exactCreatedIdeaPath": "D:\\AI\\IoT\\created_idea_013_smartphone-editing-small-display",
+  "exactZipPath": "D:\\AI\\IoT\\created_idea_013_smartphone-editing-small-display\\idea_013_smartphone-editing-small-display.zip",
+  "exactCreatedIdeaPathExists": true,
+  "exactZipExists": true,
+  "fallbackSearchUsed": false,
+  "fallbackSearchResults": [],
+  "zipEntriesChecked": [
+    "metadata.json",
+    "START_PROMPT.md",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md",
+    "02_SPECIFICATION.md"
+  ],
+  "expectedZipEntriesPresent": true,
+  "metadataRepositoryName": "smartphone-editing-small-display",
+  "metadataIdea": "スマホ編集・小型端末表示",
+  "metadataMatchesRepository": true,
+  "markdownCopyPolicy": "Formal docs are regenerated in normal Japanese from NON_PICKUP row, metadata, and domain docs. ZIP markdown is checked but not copied verbatim.",
+  "mojibakePolicy": "Generated docs are checked by code point based scanner."
+}
